@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Feel Fine.mp3";		
+f[2]	= "03 If I Fell.mp3";		
+f[3]	= "04 Can't Buy Me Love.mp3";		
+f[4]	= "05 I'll Cry Instead.mp3";		
+f[5]	= "06 Things We Said Today.mp3";		
+f[6]	= "07 Hard Day's Night.mp3";		
+f[7]	= "08 I'll Follow the Sun.mp3";		
+f[8]	= "09 She's a Woman.mp3";		
+f[9]	= "10 And I Love Her.mp3";		
+f[10]	= "12 She Loves You.mp3";		
+f[11]	= "Michelle.mp3";		
+f[12]	= "Yesterday.mp3";		
