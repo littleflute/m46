@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Down at the Sea Hotel.mp3";		
+f[2]	= "02 Midnight Lullaby.mp3";		
+f[3]	= "04 Barefoot Floors.mp3";		
+f[4]	= "05 Midnight in Missoula.mp3";		
+f[5]	= "06 Do La Lay.mp3";		
+f[6]	= "07 Little Seahorse.mp3";		
+f[7]	= "08 Goodnight, My Angel.mp3";		
+f[8]	= "10 Trick Rider.mp3";		
+f[9]	= "11 Everybody Cries.mp3";		
+f[10]	= "12 Child of Mine.mp3";		
+f[11]	= "13 Things We've Handed Down.mp3";		
+f[12]	= "14 Nothing But a Child.mp3";		
+f[13]	= "Annabel.mp3";		
+f[14]	= "Dreamland.mp3";		
