@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Let Me Drown.mp3";		
+f[2]	= "02 My Wave.mp3";		
+f[3]	= "03 Fell on Black Days.mp3";		
+f[4]	= "06 Head Down.mp3";		
+f[5]	= "07 Black Hole Sun.mp3";		
+f[6]	= "09 Limo Wreck.mp3";		
+f[7]	= "10 The Day I Tried to Live.mp3";		
+f[8]	= "12 Fresh Tendrils.mp3";		
+f[9]	= "13 4th of July.mp3";		
+f[10]	= "15 Like Suicide.mp3";		
+f[11]	= "Half.mp3";		
+f[12]	= "Kickstand.mp3";		
+f[13]	= "Mailman.mp3";		
+f[14]	= "Spoonman.mp3";		
+f[15]	= "Superunknown.mp3";		
